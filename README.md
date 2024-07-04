@@ -54,4 +54,4 @@ yarn test
 ```
 Unit tests are written using Vitest, ensuring that all Next.js server actions are thoroughly tested.
 
-
+Please note that the source code and repository for Tammwe are not shared publicly, as per company policy. This README serves as an explanation of the project structure and functionalities.
