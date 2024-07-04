@@ -1,0 +1,1 @@
+# NextJs-Full-Stack-Developer-Readme-file
